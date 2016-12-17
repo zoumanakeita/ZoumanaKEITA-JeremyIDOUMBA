@@ -1,4 +1,4 @@
-# Book Search App developped by Zoumana KEITA and Jeremy IDOUMBA-MOUTIN
+# Book Search App developed by Zoumana KEITA and Jeremy IDOUMBA-MOUTIN
 # Supervised by Sami FERHAH
 
 Android app helps users to search books and display cover images. It also allows you to recommend books to friends.
